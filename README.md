@@ -33,7 +33,7 @@
 ## Table of Contents
 
 > **Warning**\
-> This readme refers to upcoming v2 version, [read here](https://github.com/crashmax-dev/fireworks-js/tree/v1) for v1 documentation.
+> This readme refers to upcoming v2 version, [read here](https://github.com/crashmax-dev/fireworks-js/tree/v1) for v1 documentation
 
 - [Features](#features)
 - [Browsers support](#browsers-support)
